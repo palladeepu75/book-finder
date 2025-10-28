@@ -115,5 +115,3 @@ https://openlibrary.org/search.json?title=harry+potter
 This project is open-source and available under the **MIT License**.
 
 ---
-
-Would you like me to include **setup instructions for Tailwind CSS** too (in case this is a fresh React project)?
